@@ -1,4 +1,9 @@
-{% for cat in site.categories %}
+---
+layout: default
+title: Testing 123
+---
+
+{%for cat in site.categories %}
   cat: {{ cat }}<br />
 {% endfor %}
 
