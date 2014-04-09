@@ -2,7 +2,7 @@
 layout: default
 title: Om Autocomplete by Anthony Rosequist
 categories:
- - components
+  - components
 ---
 
 Anthony Rosequist wrote a great [Om autocomplete component](https://github.com/arosequist/om-autocomplete).
