@@ -9,7 +9,7 @@ A place to share reusable om components. Pull requests welcome!
 ## Components
 
 <ul>
-  {% for post in site.posts.components %}
+  {% for post in site.categories['components'] %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
