@@ -20,6 +20,10 @@ A place to share reusable om components. Pull requests welcome!
   </li>
 {% endfor %}
 
+{% for post in posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
 ### <span class="octicon octicon-link"></span> Who made this?
 
 This is a side-project by [Petrus Theron](http://petrustheron.com/).
