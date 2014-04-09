@@ -3,7 +3,7 @@ layout: default
 ---
 ### <span class="octicon octicon-link"></span> Reusable Components for Om written in ClojureScript
 
-A place to share reusable om components.
+A place to share reusable om components. Pull requests welcome!
 
 ## Components
 
