@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Reusable Om Components
 ---
 ### <span class="octicon octicon-link"></span> Reusable Components for Om written in ClojureScript
 
